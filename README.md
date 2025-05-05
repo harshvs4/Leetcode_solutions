@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/harshvs4/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/harshvs4/Leetcode_solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/harshvs4/Leetcode_solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/harshvs4/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harshvs4/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/harshvs4/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/harshvs4/Leetcode_solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/harshvs4/Leetcode_solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/harshvs4/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harshvs4/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/harshvs4/Leetcode_solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/harshvs4/Leetcode_solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/harshvs4/Leetcode_solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/harshvs4/Leetcode_solutions/tree/master/0075-sort-colors) |
 ## Sliding Window
 |  |
