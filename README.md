@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/harshvs4/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harshvs4/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/harshvs4/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/harshvs4/Leetcode_solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/harshvs4/Leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1168-duplicate-zeros](https://github.com/harshvs4/Leetcode_solutions/tree/master/1168-duplicate-zeros) |
 ## Hash Table
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harshvs4/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/harshvs4/Leetcode_solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0287-find-the-duplicate-number](https://github.com/harshvs4/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/harshvs4/Leetcode_solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0874-backspace-string-compare](https://github.com/harshvs4/Leetcode_solutions/tree/master/0874-backspace-string-compare) |
 | [1168-duplicate-zeros](https://github.com/harshvs4/Leetcode_solutions/tree/master/1168-duplicate-zeros) |
 ## Binary Search
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/harshvs4/Leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/harshvs4/Leetcode_solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/harshvs4/Leetcode_solutions/tree/master/0075-sort-colors) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/harshvs4/Leetcode_solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -62,9 +65,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/harshvs4/Leetcode_solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0874-backspace-string-compare](https://github.com/harshvs4/Leetcode_solutions/tree/master/0874-backspace-string-compare) |
 ## Simulation
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/harshvs4/Leetcode_solutions/tree/master/0874-backspace-string-compare) |
+## Greedy
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/harshvs4/Leetcode_solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/harshvs4/Leetcode_solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
