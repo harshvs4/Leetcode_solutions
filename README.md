@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/harshvs4/Leetcode_solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/harshvs4/Leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1168-duplicate-zeros](https://github.com/harshvs4/Leetcode_solutions/tree/master/1168-duplicate-zeros) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshvs4/Leetcode_solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshvs4/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/harshvs4/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshvs4/Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshvs4/Leetcode_solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Linked List
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/harshvs4/Leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/harshvs4/Leetcode_solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
 | ------- |
